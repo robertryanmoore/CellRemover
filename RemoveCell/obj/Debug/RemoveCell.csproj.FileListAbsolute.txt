@@ -1,0 +1,42 @@
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.exe.config
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.exe
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.pdb
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Oracle.Web.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.Form1.resources
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.Properties.Resources.resources
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csproj.GenerateResource.cache
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csproj.CoreCompileInputs.cache
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csproj.CopyComplete
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.exe
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.pdb
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.exe.manifest
+C:\Code\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.application
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.exe.manifest
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.application
+C:\Code\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csprojAssemblyReference.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.exe.config
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.exe.manifest
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.application
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.exe
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\RemoveCell.pdb
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csprojAssemblyReference.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.Form1.resources
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.Properties.Resources.resources
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csproj.GenerateResource.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csproj.CoreCompileInputs.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.exe.manifest
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.application
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.csproj.CopyComplete
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.exe
+C:\Users\Robbie\OneDrive\work backup\dotNet\RemoveCell\RemoveCell\obj\Debug\RemoveCell.pdb
