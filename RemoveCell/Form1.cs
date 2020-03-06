@@ -140,10 +140,7 @@ namespace RemoveCell
 
 
             // security risks have been removed
-            string sql = "UPDATE [table] SET [field] = ''"
-                + ", [field] = ''"
-                + ", [field] = ''"
-                + "  [field] = '" + cellNumber+"'";
+            string sql = "";
 
             OracleCommand cmd = new OracleCommand(sql, conn);
             cmd.CommandType = CommandType.Text;
@@ -168,7 +165,7 @@ namespace RemoveCell
             lblInfo.Text = "Connection closed";
         }
 
-        // formats the cell number correctly for the sql statement, so +27123456789, 0123456789, 012 345 6789 aall work
+        // formats the cell number correctly for the sql statement, so +27123456789, 0123456789, 012 345 6789 all work
         protected string NumberCleaner(string cellNum) {
 
             char[] temp = cellNum.ToCharArray();
